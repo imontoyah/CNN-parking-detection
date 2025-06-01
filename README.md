@@ -41,7 +41,3 @@ Evaluation metrics such as accuracy, confusion matrix, and visual output of pred
 
 ## Dataset
 This project uses the CNRPark + EXT dataset, a benchmark for intelligent parking systems. Only a subset of cropped patches is included in this repository. For the full dataset, visit this [link](http://cnrpark.it).
-
-
-
-
