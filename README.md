@@ -12,4 +12,4 @@ This repository contains the following files:
 - README.md
 - requirements.txt
 - cnn.py
-- 
+- CNRPark-Patches-150x150
